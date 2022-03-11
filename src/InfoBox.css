@@ -32,7 +32,11 @@
   margin-top: 15px !important;
 } 
 @media (max-width: 360px) {
-  .infoBox__total, .infoBox__cases {
-  font-size: 20px;
+  .infoBox__total, .infoBox__cases , .inforBox__title  {
+    font-size: 10px;
+    color: purple;
   }
+  /* .inforBox__title {
+    font-size: 10px;
+  } */
 }
