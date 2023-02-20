@@ -1,12 +1,12 @@
 # React COVID Tracker
 
-### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Covid Tracker with JavaScript, NodeJS, and MongoDB?
+I created Covid 19 Tracker using React.js to track the number of death, recovery, and totalcases available per county and all cases in the world. It's a real-time web app that consumes disease.sh API to get the data and OpenStreetMap to display the world map
 
-Check out our `Profit With JavaScript Course`    :point_down: 
+  :point_down: 
 
-[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=20-july-live-sonny-naz-covid-19-tracker&utm_campaign=live-everyday&utm_term=warm)
+[live preview](https://covid-19-tracker-1d3c3.firebaseapp.com/)
 
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Sonny](https://www.instagram.com/ssssangha/)
+
 
 ## Available Scripts
 
